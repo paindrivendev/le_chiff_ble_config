@@ -15,3 +15,4 @@ This is the [zmk](https://zmk.dev) firmware for the [le_chiffre ble](https://git
 - drag'n'drop your firmware `.uf2` file onto the storage device 
 
 **Congrats, you should now have the firmware on your board!**
+
